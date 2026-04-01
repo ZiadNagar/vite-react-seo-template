@@ -1,0 +1,36 @@
+# YOUR_SITE_NAME
+
+> YOUR_SITE_SLOGAN_OR_TAGLINE
+
+## About
+
+YOUR_SITE_NAME is a [industry/sector] company that delivers [core value proposition]. We combine [key differentiator 1] with [key differentiator 2] to help [target audience] achieve [primary outcome].
+
+## Key pages
+
+- [Home](https://YOUR_PRODUCTION_DOMAIN/): Overview of capabilities, value proposition, and how we serve the market.
+- [About](https://YOUR_PRODUCTION_DOMAIN/about): Mission, leadership team, company history, and innovation culture.
+- [Services](https://YOUR_PRODUCTION_DOMAIN/services): Full range of professional services including [service 1], [service 2], [service 3], and [service 4].
+- [Products](https://YOUR_PRODUCTION_DOMAIN/products): Technology products and platforms including [product 1], [product 2], and [product 3].
+- [Marketplace](https://YOUR_PRODUCTION_DOMAIN/marketplace): Partner integrations and ecosystem that extend our platform capabilities.
+- [Blog](https://YOUR_PRODUCTION_DOMAIN/blog): Insights, market analysis, and thought leadership on industry trends and best practices.
+
+## Core capabilities
+
+1. **[Capability 1]**: Brief description of what this capability delivers.
+2. **[Capability 2]**: Brief description of what this capability delivers.
+3. **[Capability 3]**: Brief description of what this capability delivers.
+4. **[Capability 4]**: Brief description of what this capability delivers.
+
+## Who we serve
+
+- **[Audience 1]**: How we help this segment.
+- **[Audience 2]**: How we help this segment.
+- **[Audience 3]**: How we help this segment.
+
+## Contact
+
+- **Website**: https://YOUR_PRODUCTION_DOMAIN/
+- **Email**: YOUR_CONTACT_EMAIL
+- **Phone**: YOUR_PHONE_NUMBER
+- **Address**: YOUR_PHYSICAL_ADDRESS

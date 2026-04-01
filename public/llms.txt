@@ -1,0 +1,15 @@
+# YOUR_SITE_NAME
+
+> YOUR_SITE_SLOGAN_OR_TAGLINE — brief description of what your company does and who it serves.
+
+## Key pages
+
+- [Home](https://YOUR_PRODUCTION_DOMAIN/): Overview of your company, core value proposition, and how you serve your customers.
+- [About](https://YOUR_PRODUCTION_DOMAIN/about): Mission, leadership, and company culture.
+- [Services](https://YOUR_PRODUCTION_DOMAIN/services): Full range of professional services and solutions.
+- [Products](https://YOUR_PRODUCTION_DOMAIN/products): Product suite and technology platform.
+- [Blog](https://YOUR_PRODUCTION_DOMAIN/blog): Insights, news, and expert perspectives.
+
+## Contact
+
+Canonical site: https://YOUR_PRODUCTION_DOMAIN/
